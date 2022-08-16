@@ -34,4 +34,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-

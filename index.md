@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Early Admissions Exercise
       subtitle: Secure Your Dream Course At RP!
-      background: /images/hero-banner.png
       button: Apply Now
       url: /contact-us/
       key_highlights:

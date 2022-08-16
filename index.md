@@ -10,7 +10,7 @@ sections:
       title: Early Admissions Exercise
       subtitle: Secure Your Dream Course At RP!
       button: Apply Now
-      url: /contact-us/
+      url: https://www.rp.edu.sg/eae/apply
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -23,14 +23,18 @@ sections:
           url: /privacy/
       background: /images/eae-masthead-2022.jpg
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: What is Early Admissions Exercise (EAE)?
+      subtitle: Apply for your dream course!
+      description: Under EAE, you'll be able to showcase your passion with your
+        portfolio and an interview, and secure a seat ahead of your peers.
+      button: Find Out More
+      url: https://www.rp.edu.sg/eae/apply
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
+      title: Quick Guides to Ace Your EAE Application
+      description: "Learn how you can demonstrate your passion and interests for your
+        dream course in your portfolio and interview. Download our quick guides
+        below to learn more! "
       button: Button Text
       alt: Image alt text
+      image: /images/open-house-highlights.png
 ---
